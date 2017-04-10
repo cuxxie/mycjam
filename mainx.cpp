@@ -1,3 +1,4 @@
+//codejam2017qualificationC
 #include <iostream>
 #include <math.h>
 #include <vector>
