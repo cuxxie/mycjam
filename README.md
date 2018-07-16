@@ -1,5 +1,5 @@
 # mycjam
-my code jam solution
+my algorithm contest solution
 
 i use this for my repository so i can access all those file anywhere when i need them. 
 set it public so i dont have to spend any cent. 
